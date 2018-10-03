@@ -3,6 +3,6 @@ First attempt to be hero!)
 
 
 I don't want to speak about myself. 
-So i'll see some changes in me commit
+So i'll do some changes in my commit
 
-And i will edit master line someone.
+And i will edit master line later...
